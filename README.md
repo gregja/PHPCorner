@@ -17,9 +17,11 @@ J'ai écrit ce support sur PHP pour répondre aux besoins d'apprentissage de mes
 mais aussi dans le cadre des formations en entreprise que je délivre régulièrement.
 
 Ce support de cours est une réécriture complète d'un support de cours plus ancien, c'est un travail en cours 
-mais la version actuellement disponible (au 19/07/2017) est déjà très complète. 
+mais la version actuellement disponible (au 5/08/2017) est déjà très complète.
+ 
 Vous pouvez suivre les changements intervenus dans ce support en consultant le dernier chapitre du support,
 que j'ai intitulé "changelog".
+
 Des mises à jour régulières vont intervenir sur ce dépôt, alors restez à l'écoute ;).
 
 --------
